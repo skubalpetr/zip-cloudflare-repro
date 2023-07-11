@@ -1,4 +1,4 @@
-import createThenReadZip from "../create-and-read-zip";
+import createThenReadZip from "../create-and-read-zip.mjs";
 
 export default {
   async fetch(request, env, ctx) {
